@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  > 
 > 💼 Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 2 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -41,5 +41,5 @@ HTML                     1 repo              ███████████�
 
 
 
- Last Updated on 05/11/2022 21:18:24 UTC
+ Last Updated on 05/11/2022 21:23:22 UTC
 <!--END_SECTION:waka-->
