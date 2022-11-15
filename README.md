@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 🏆 73 Contributions in the Year 2022
  > 
-> 📦 242 Bytes Used in GitHub's Storage 
+> 📦 1.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -91,5 +91,5 @@ HTML                     2 repos             ███████████�
 
 
 
- Last Updated on 15/11/2022 16:51:19 UTC
+ Last Updated on 15/11/2022 17:10:26 UTC
 <!--END_SECTION:waka-->
