@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 🏆 88 Contributions in the Year 2022
  > 
-> 📦 1.7 kB Used in GitHub's Storage 
+> 📦 1.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -87,5 +87,5 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 26/11/2022 10:25:59 UTC
+ Last Updated on 26/11/2022 10:39:53 UTC
 <!--END_SECTION:waka-->
