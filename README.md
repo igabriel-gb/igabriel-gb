@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 🏆 106 Contributions in the Year 2022
  > 
-> 📦 2.3 kB Used in GitHub's Storage 
+> 📦 2.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -86,5 +86,5 @@ Jupyter Notebook         2 repos             ███████████�
 
 
 
- Last Updated on 22/12/2022 17:21:53 UTC
+ Last Updated on 22/12/2022 17:33:22 UTC
 <!--END_SECTION:waka-->
