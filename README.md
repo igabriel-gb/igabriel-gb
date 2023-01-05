@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -87,5 +87,5 @@ Jupyter Notebook         2 repos             ███████████�
 
 
 
- Last Updated on 05/01/2023 21:35:02 UTC
+ Last Updated on 05/01/2023 21:43:07 UTC
 <!--END_SECTION:waka-->
