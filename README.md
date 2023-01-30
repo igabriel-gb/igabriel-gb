@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -61,16 +61,16 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   54 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  54 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Aula de Python DNC       54 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  54 mins             █████████████████████████   100.0%
 
 ```
 
@@ -84,5 +84,5 @@ Jupyter Notebook         2 repos             ███████████�
 
 
 
- Last Updated on 30/01/2023 03:21:18 UTC
+ Last Updated on 30/01/2023 03:33:59 UTC
 <!--END_SECTION:waka-->
