@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 🏆 2 Contributions in the Year 2023
  > 
-> 📦 3.5 kB Used in GitHub's Storage 
+> 📦 3.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -84,5 +84,5 @@ Jupyter Notebook         2 repos             ███████████�
 
 
 
- Last Updated on 30/01/2023 02:57:14 UTC
+ Last Updated on 30/01/2023 03:21:18 UTC
 <!--END_SECTION:waka-->
