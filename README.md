@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2023
+> 🏆 2 Contributions in the Year 2023
  > 
 > 📦 3.7 kB Used in GitHub's Storage 
  > 
@@ -85,5 +85,5 @@ Jupyter Notebook         2 repos             ███████████�
 
 
 
- Last Updated on 04/02/2023 14:42:36 UTC
+ Last Updated on 04/02/2023 14:55:41 UTC
 <!--END_SECTION:waka-->
