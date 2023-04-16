@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 🏆 5 Contributions in the Year 2023
  > 
-> 📦 5.2 kB Used in GitHub's Storage 
+> 📦 5.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -74,15 +74,15 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in Jupyter Notebook** 
 
 ```text
-HTML                     2 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Jupyter Notebook         2 repos             ████████████░░░░░░░░░░░░░   50.0%
+Jupyter Notebook         3 repos             ███████████████░░░░░░░░░░   60.0% 
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.0%
 
 ```
 
 
 
- Last Updated on 16/04/2023 12:28:10 UTC
+ Last Updated on 16/04/2023 12:52:01 UTC
 <!--END_SECTION:waka-->
