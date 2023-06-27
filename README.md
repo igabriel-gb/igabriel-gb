@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 🏆 6 Contributions in the Year 2023
  > 
-> 📦 6.9 kB Used in GitHub's Storage 
+> 📦 6.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -84,5 +84,5 @@ HTML                     2 repos             ██████████░�
 
 
 
- Last Updated on 27/06/2023 20:29:37 UTC
+ Last Updated on 27/06/2023 20:40:44 UTC
 <!--END_SECTION:waka-->
