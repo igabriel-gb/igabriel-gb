@@ -61,18 +61,16 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   19 mins             █████████████████████░░░░   85.82% 
-Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.18%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-python_estudos           19 mins             █████████████████████░░░░   85.82% 
-gabri                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.18%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -86,5 +84,5 @@ HTML                     2 repos             ██████████░�
 
 
 
- Last Updated on 01/08/2023 03:20:45 UTC
+ Last Updated on 01/08/2023 03:32:03 UTC
 <!--END_SECTION:waka-->
