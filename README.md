@@ -61,18 +61,16 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     0 secs              ██████████████░░░░░░░░░░░   56.0% 
-Python                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   22.48% 
-Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.53%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Aula de Python DNC       0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -86,5 +84,5 @@ HTML                     2 repos             ██████████░�
 
 
 
- Last Updated on 15/08/2023 03:11:27 UTC
+ Last Updated on 15/08/2023 03:23:52 UTC
 <!--END_SECTION:waka-->
