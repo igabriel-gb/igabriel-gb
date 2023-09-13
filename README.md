@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -59,16 +59,19 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 mins              ██████████████████████░░░   88.58 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mensagns do whatsapp     4 mins              ██████████████████████░░░   88.58 % 
+Aula de Python DNC       0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -81,5 +84,5 @@ HTML                     2 repos             ██████████░�
 
 
 
- Last Updated on 13/09/2023 03:18:49 UTC
+ Last Updated on 13/09/2023 03:30:29 UTC
 <!--END_SECTION:waka-->
