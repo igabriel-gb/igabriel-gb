@@ -59,18 +59,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   0 secs              ███████████████░░░░░░░░░░   61.37 % 
-Ezhil                    0 secs              ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-Text                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-projetos                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -83,5 +81,5 @@ HTML                     2 repos             ██████████░�
 
 
 
- Last Updated on 30/09/2023 03:00:57 UTC
+ Last Updated on 30/09/2023 03:18:59 UTC
 <!--END_SECTION:waka-->
