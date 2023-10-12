@@ -74,12 +74,13 @@ No Activity Tracked This Week
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         3 repos             ███████████████░░░░░░░░░░   60.00 % 
-HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Jupyter Notebook         3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
 
 
- Last Updated on 12/10/2023 22:39:02 UTC
+ Last Updated on 12/10/2023 22:50:27 UTC
 <!--END_SECTION:waka-->
