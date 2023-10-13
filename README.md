@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,16 +59,21 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               23 mins             ███████████░░░░░░░░░░░░░░   42.20 % 
+Bash                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+developer                33 mins             ███████████████░░░░░░░░░░   59.06 % 
+gabri                    22 mins             ██████████░░░░░░░░░░░░░░░   40.94 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -82,5 +87,5 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/10/2023 03:12:43 UTC
+ Last Updated on 13/10/2023 03:25:38 UTC
 <!--END_SECTION:waka-->
