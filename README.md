@@ -59,16 +59,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gabri                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -82,5 +82,5 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 03:59:39 UTC
+ Last Updated on 06/12/2023 04:24:30 UTC
 <!--END_SECTION:waka-->
