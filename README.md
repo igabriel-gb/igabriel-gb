@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 > 📦 12.6 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -80,5 +82,5 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 23/03/2024 14:09:10 UTC
+ Last Updated on 23/03/2024 14:24:05 UTC
 <!--END_SECTION:waka-->
